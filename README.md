@@ -13,7 +13,7 @@
 - Dashboard
 - Medidas DAX
 - Principais Conclusões
-- Como Visualizar)
+- Como Visualizar
 
 ---
 
