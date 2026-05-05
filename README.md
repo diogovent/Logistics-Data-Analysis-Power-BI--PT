@@ -78,8 +78,8 @@ O ficheiro `dataset.xlsx` contém uma tabela chamada **Logistica** com as seguin
 - **Percentual de Entregas por Equipa** — Gráfico de barras horizontais; a equipa Norte lidera com 27,44%
 - **Total de Entregas por Mês** — Gráfico de linhas com evolução mensal ao longo do ano
 - **Percentual de Entregas por Status** — Gráfico de barras com Antecipado (70,71%), No Prazo (16,31%) e Atrasado (12,98%)
-- **Tabela — Top Vendedores** — Ranking por ID de vendedor com total de entregas e rating em estrelas
-- **Tabela — Entregas com Atraso por Cidade** — Cidades com maior número de entregas em atraso
+- **Tabela: Top Vendedores** — Ranking por ID de vendedor com total de entregas e rating em estrelas
+- **Tabela: Entregas com Atraso por Cidade** — Cidades com maior número de entregas em atraso
 
 **Filtro disponível:**
 - Seleção por ano (2019 / 2020)
